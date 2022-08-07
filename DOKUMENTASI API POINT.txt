@@ -193,15 +193,6 @@ User {
         + deleteUser()
     },
 
- About{
-        +"id": int
-        +"foto": string
-        + getAllUser()
-        + getUserById()
-        + updateUser()
-        + createUser()
-        + deleteUser()
-    }
 
 Article{
     +"judul":string
