@@ -101,9 +101,9 @@ response:
         "penulis"       : "",
         "title"         : "",
         "deskripsi      : "",
-        "sampul"        : "",
+        "sampul"        : ""
     }
-    ....
+
 ]
 
 
